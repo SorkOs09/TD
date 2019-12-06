@@ -1,0 +1,479 @@
+<__main__.Evil object at 0x035F6C70> 8<__main__.Tower object at 0x042A0930> 6<__main__.Evil object at 0x042D5390> 7<__main__.Evil object at 0x042D5390> 4<__main__.Evil object at 0x042D5390> 2<__main__.Evil object at 0x042D5390> 0<__main__.Tower object at 0x042A0930> 3<__main__.Evil object at 0x035E2990> 7<__main__.Evil object at 0x035E2990> 6<__main__.Evil object at 0x035E2990> 5<__main__.Evil object at 0x035E2990> 2<__main__.Tower object at 0x042A0A30> 5<__main__.Evil object at 0x035E2990> 0<__main__.Tower object at 0x042A0BF0> 6Fri Dec 06 20:26:09 2019
+<__main__.Evil object at 0x03BD8D30> 7Fri Dec 06 20:26:09 2019
+<__main__.Evil object at 0x03BD8D30> 4Fri Dec 06 20:26:11 2019
+<__main__.Evil object at 0x048D4390> 7Fri Dec 06 20:26:11 2019
+<__main__.Evil object at 0x048D4390> 6Fri Dec 06 20:26:13 2019
+<__main__.Evil object at 0x03BE19D0> 7Fri Dec 06 20:26:13 2019
+<__main__.Evil object at 0x03BE19D0> 4Fri Dec 06 20:26:14 2019
+<__main__.Example object at 0x03BC62B0> 20Fri Dec 06 20:26:14 2019
+<__main__.Evil object at 0x048D43B0> 8Fri Dec 06 20:26:14 2019
+<__main__.Tower object at 0x048AF890> 8Fri Dec 06 20:26:15 2019
+<__main__.Evil object at 0x048D43B0> 5Fri Dec 06 20:26:15 2019
+<__main__.Evil object at 0x048D43B0> 2Fri Dec 06 20:26:15 2019
+<__main__.Evil object at 0x03BD8D30> 7Fri Dec 06 20:26:16 2019
+<__main__.Evil object at 0x03BD8D30> 6Fri Dec 06 20:26:16 2019
+<__main__.Example object at 0x03BC62B0> 10Fri Dec 06 20:26:16 2019
+<__main__.Evil object at 0x03BD8D30> 5Fri Dec 06 20:26:16 2019
+<__main__.Tower object at 0x048AF890> 5Fri Dec 06 20:26:17 2019
+<__main__.Evil object at 0x03BD8D30> 4Fri Dec 06 20:26:18 2019
+<__main__.Evil object at 0x03BD8D30> 1Fri Dec 06 20:26:18 2019
+<__main__.Evil object at 0x048D4410> 8Fri Dec 06 20:26:18 2019
+<__main__.Evil object at 0x048D4410> 7Fri Dec 06 20:26:18 2019
+<__main__.Example object at 0x03BC62B0> 0Fri Dec 06 20:26:18 2019
+<__main__.Evil object at 0x048D4410> 4Fri Dec 06 20:26:18 2019
+<__main__.Tower object at 0x048AF890> 2Fri Dec 06 20:26:52 2019
+
+<__main__.Evil object at 0x03726CB0> 8
+Fri Dec 06 20:26:53 2019
+
+<__main__.Evil object at 0x03726CB0> 6
+Fri Dec 06 20:26:53 2019
+
+<__main__.Evil object at 0x03726CB0> 3
+Fri Dec 06 20:26:53 2019
+
+<__main__.Tower object at 0x0442F630> 3
+Fri Dec 06 20:26:53 2019
+
+<__main__.Evil object at 0x03726CB0> 0
+Fri Dec 06 20:26:54 2019
+
+<__main__.Evil object at 0x04446470> 7
+Fri Dec 06 20:26:55 2019
+
+<__main__.Evil object at 0x04446470> 4
+Fri Dec 06 20:26:55 2019
+
+<__main__.Evil object at 0x04446470> 2
+Fri Dec 06 20:26:56 2019
+
+<__main__.Evil object at 0x03726CB0> 7
+Fri Dec 06 20:26:57 2019
+
+<__main__.Evil object at 0x03726CB0> 6
+Fri Dec 06 20:26:58 2019
+
+<__main__.Evil object at 0x037119D0> 9
+Fri Dec 06 20:26:59 2019
+
+<__main__.Evil object at 0x037119D0> 8
+Fri Dec 06 20:55:26 2019
+
+<__main__.TD object at 0x03BD62B0> 20
+Fri Dec 06 20:55:28 2019
+
+<__main__.TD object at 0x03BD62B0> 10
+Fri Dec 06 20:55:30 2019
+
+<__main__.TD object at 0x03BD62B0> 0
+Fri Dec 06 21:09:35 2019
+
+<__main__.Evil object at 0x04635210> 8
+Fri Dec 06 21:09:37 2019
+
+<__main__.Evil object at 0x04635290> 7
+Fri Dec 06 21:09:39 2019
+
+<__main__.TD object at 0x038E72B0> 20
+Fri Dec 06 21:09:39 2019
+
+<__main__.Evil object at 0x03922970> 9
+Fri Dec 06 21:09:41 2019
+
+<__main__.Evil object at 0x046352D0> 8
+Fri Dec 06 21:09:41 2019
+
+<__main__.TD object at 0x038E72B0> 10
+Fri Dec 06 21:09:43 2019
+
+<__main__.Evil object at 0x03935C30> 7
+Fri Dec 06 21:09:43 2019
+
+<__main__.TD object at 0x038E72B0> 0
+Fri Dec 06 21:14:53 2019
+
+<__main__.TD object at 0x02E172B0> 20
+Fri Dec 06 21:14:55 2019
+
+<__main__.TD object at 0x02E172B0> 10
+Fri Dec 06 21:14:57 2019
+
+<__main__.TD object at 0x02E172B0> 0
+Fri Dec 06 21:15:19 2019
+
+<__main__.TD object at 0x031272B0> 20
+Fri Dec 06 21:15:22 2019
+
+<__main__.TD object at 0x031272B0> 10
+Fri Dec 06 21:15:24 2019
+
+<__main__.TD object at 0x031272B0> 0
+Fri Dec 06 21:16:04 2019
+
+<__main__.TD object at 0x03A272B0> 20
+Fri Dec 06 21:16:06 2019
+
+<__main__.TD object at 0x03A272B0> 10
+Fri Dec 06 21:16:08 2019
+
+<__main__.TD object at 0x03A272B0> 0
+Fri Dec 06 21:29:45 2019
+
+<__main__.Evil object at 0x04A56230> 8
+Fri Dec 06 21:29:47 2019
+
+<__main__.Evil object at 0x04A56270> 9
+Fri Dec 06 21:29:48 2019
+
+<__main__.TD object at 0x03D172B0> 20
+Fri Dec 06 21:29:49 2019
+
+<__main__.Evil object at 0x03D52A10> 8
+Fri Dec 06 21:29:50 2019
+
+<__main__.TD object at 0x03D172B0> 10
+Fri Dec 06 21:29:51 2019
+
+<__main__.Evil object at 0x04A56270> 6
+Fri Dec 06 21:29:51 2019
+
+<__main__.Evil object at 0x03D67CD0> 8
+Fri Dec 06 21:29:52 2019
+
+<__main__.TD object at 0x03D172B0> 0
+Fri Dec 06 21:30:03 2019
+
+<__main__.Evil object at 0x03A52250> 7
+Fri Dec 06 21:30:05 2019
+
+<__main__.Evil object at 0x04747270> 8
+Fri Dec 06 21:54:26 2019
+
+<__main__.Evil object at 0x0331D510> 7
+Fri Dec 06 21:54:28 2019
+
+<__main__.TD object at 0x032A5170> 20
+Fri Dec 06 21:54:28 2019
+
+<__main__.Evil object at 0x03FDAAD0> 8
+Fri Dec 06 21:54:28 2019
+
+<__main__.Evil object at 0x03FDAAD0> 7
+Fri Dec 06 21:54:28 2019
+
+<__main__.Evil object at 0x03FDAAD0> 4
+Fri Dec 06 21:54:29 2019
+
+<__main__.Evil object at 0x03FDAAD0> 2
+Fri Dec 06 21:54:30 2019
+
+<__main__.Evil object at 0x03FDAB50> 8
+Fri Dec 06 21:54:30 2019
+
+<__main__.Evil object at 0x03FDAB50> 6
+Fri Dec 06 21:54:30 2019
+
+<__main__.Evil object at 0x03FDAB50> 5
+Fri Dec 06 21:54:30 2019
+
+<__main__.TD object at 0x032A5170> 10
+Fri Dec 06 21:54:30 2019
+
+<__main__.Evil object at 0x03FDAB50> 3
+Fri Dec 06 21:54:30 2019
+
+<__main__.Evil object at 0x03FDAB70> 9
+Fri Dec 06 21:54:30 2019
+
+<__main__.Evil object at 0x03FDAB50> 0
+Fri Dec 06 21:54:31 2019
+
+<__main__.Evil object at 0x03FDAB70> 8
+Fri Dec 06 21:54:32 2019
+
+<__main__.Evil object at 0x03FDAB70> 5
+Fri Dec 06 21:54:32 2019
+
+<__main__.Evil object at 0x03FDAB70> 2
+Fri Dec 06 21:54:32 2019
+
+<__main__.Evil object at 0x03FDAB70> 1
+Fri Dec 06 21:54:32 2019
+
+<__main__.Evil object at 0x0330B230> 8
+Fri Dec 06 21:54:32 2019
+
+<__main__.Evil object at 0x03FDAB70> -2
+Fri Dec 06 21:54:33 2019
+
+<__main__.Evil object at 0x0330B230> 7
+Fri Dec 06 21:54:34 2019
+
+<__main__.Evil object at 0x0330B230> 6
+Fri Dec 06 21:54:34 2019
+
+<__main__.Evil object at 0x0330B230> 3
+Fri Dec 06 21:54:34 2019
+
+<__main__.Evil object at 0x0331D510> 7
+Fri Dec 06 21:54:34 2019
+
+<__main__.Evil object at 0x0330B230> 1
+Fri Dec 06 21:54:36 2019
+
+<__main__.Evil object at 0x0331D510> 4
+Fri Dec 06 21:54:36 2019
+
+<__main__.Evil object at 0x0331D510> 2
+Fri Dec 06 21:54:36 2019
+
+<__main__.TD object at 0x032A5170> 0
+Fri Dec 06 21:54:36 2019
+
+<__main__.Evil object at 0x03FDABD0> 7
+Fri Dec 06 21:55:14 2019
+
+<__main__.Evil object at 0x02B1D530> 8
+Fri Dec 06 21:55:14 2019
+
+<__main__.Evil object at 0x02B0B250> 9
+Fri Dec 06 21:55:14 2019
+
+<__main__.Evil object at 0x02B1D530> 6
+Fri Dec 06 21:55:16 2019
+
+<__main__.Evil object at 0x02B0B250> 6
+Fri Dec 06 21:55:16 2019
+
+<__main__.Evil object at 0x02B1D530> 3
+Fri Dec 06 21:55:16 2019
+
+<__main__.Evil object at 0x02B1D530> 1
+Fri Dec 06 21:55:16 2019
+
+<__main__.Evil object at 0x037DBB30> 7
+Fri Dec 06 21:55:17 2019
+
+<__main__.Evil object at 0x02B1D530> -1
+Fri Dec 06 21:55:17 2019
+
+<__main__.Evil object at 0x02B0B250> 4
+Fri Dec 06 21:55:17 2019
+
+<__main__.Evil object at 0x02B0B250> 3
+Fri Dec 06 21:55:18 2019
+
+<__main__.Evil object at 0x037DBB30> 5
+Fri Dec 06 21:55:18 2019
+
+<__main__.Evil object at 0x02B0B250> 1
+Fri Dec 06 21:55:18 2019
+
+<__main__.Evil object at 0x02B0B250> -2
+Fri Dec 06 21:55:18 2019
+
+<__main__.Evil object at 0x02B1D530> 8
+Fri Dec 06 21:55:19 2019
+
+<__main__.Evil object at 0x037DBB30> 2
+Fri Dec 06 21:55:20 2019
+
+<__main__.Evil object at 0x02B1D530> 7
+Fri Dec 06 21:55:20 2019
+
+<__main__.Evil object at 0x037DBB30> -1
+Fri Dec 06 21:55:20 2019
+
+<__main__.Evil object at 0x02B0B250> 9
+Fri Dec 06 21:55:21 2019
+
+<__main__.Evil object at 0x02B1D530> 6
+Fri Dec 06 21:55:22 2019
+
+<__main__.Evil object at 0x02B1D530> 3
+Fri Dec 06 21:55:22 2019
+
+<__main__.Evil object at 0x02B1D530> 1
+Fri Dec 06 21:55:22 2019
+
+<__main__.Evil object at 0x02B1D530> -2
+Fri Dec 06 21:55:22 2019
+
+<__main__.Evil object at 0x037DBB50> 7
+Fri Dec 06 21:55:24 2019
+
+<__main__.Evil object at 0x02B0B250> 7
+Fri Dec 06 21:55:24 2019
+
+<__main__.Evil object at 0x02B0B250> 5
+Fri Dec 06 21:55:24 2019
+
+<__main__.Evil object at 0x02B0B250> 2
+Fri Dec 06 21:55:24 2019
+
+<__main__.Evil object at 0x02B1D530> 8
+Fri Dec 06 21:55:25 2019
+
+<__main__.Evil object at 0x02B0B250> 1
+Fri Dec 06 21:55:25 2019
+
+<__main__.Evil object at 0x02B0B250> -2
+Fri Dec 06 21:55:26 2019
+
+<__main__.Evil object at 0x037DBB50> 6
+Fri Dec 06 21:55:26 2019
+
+<__main__.Evil object at 0x037DBB50> 5
+Fri Dec 06 21:55:26 2019
+
+<__main__.Evil object at 0x037DBB50> 4
+Fri Dec 06 21:55:27 2019
+
+<__main__.Evil object at 0x037DBB50> 2
+Fri Dec 06 21:55:27 2019
+
+<__main__.Evil object at 0x037DBB50> 1
+Fri Dec 06 21:55:27 2019
+
+<__main__.Evil object at 0x037DBB50> -2
+Fri Dec 06 21:55:28 2019
+
+<__main__.Evil object at 0x02B1D530> 6
+Fri Dec 06 21:55:28 2019
+
+<__main__.Evil object at 0x02B1D530> 5
+Fri Dec 06 21:55:28 2019
+
+<__main__.Evil object at 0x02B1D530> 3
+Fri Dec 06 21:55:29 2019
+
+<__main__.Evil object at 0x02B1D530> 0
+Fri Dec 06 21:55:30 2019
+
+<__main__.Evil object at 0x02B0B250> 7
+Fri Dec 06 21:55:31 2019
+
+<__main__.Evil object at 0x02B0B250> 4
+Fri Dec 06 21:55:31 2019
+
+<__main__.Evil object at 0x02B0B250> 3
+Fri Dec 06 21:55:31 2019
+
+<__main__.Evil object at 0x02B0B250> 2
+Fri Dec 06 21:55:32 2019
+
+<__main__.Evil object at 0x037DBB10> 7
+Fri Dec 06 21:55:32 2019
+
+<__main__.Evil object at 0x037DBB10> 4
+Fri Dec 06 21:55:33 2019
+
+<__main__.Evil object at 0x037DBB10> 3
+Fri Dec 06 21:55:34 2019
+
+<__main__.Evil object at 0x02B1D530> 7
+Fri Dec 06 21:55:35 2019
+
+<__main__.Evil object at 0x02B1D530> 4
+Fri Dec 06 21:55:36 2019
+
+<__main__.Evil object at 0x037DBB50> 7
+Fri Dec 06 21:55:37 2019
+
+<__main__.Evil object at 0x02B0B250> 0
+Fri Dec 06 21:55:37 2019
+
+<__main__.Evil object at 0x037DBB50> 4
+Fri Dec 06 21:55:38 2019
+
+<__main__.Evil object at 0x037DBB70> 8
+Fri Dec 06 21:55:39 2019
+
+<__main__.Evil object at 0x037DBB10> 2
+Fri Dec 06 21:55:39 2019
+
+<__main__.Evil object at 0x037DBB70> 5
+Fri Dec 06 21:55:40 2019
+
+<__main__.Evil object at 0x037DBB10> -1
+Fri Dec 06 21:55:41 2019
+
+<__main__.Evil object at 0x02B1D530> 1
+Fri Dec 06 21:55:41 2019
+
+<__main__.Evil object at 0x037DBAF0> 9
+Fri Dec 06 21:55:43 2019
+
+<__main__.Evil object at 0x02B1D530> -1
+Fri Dec 06 21:55:43 2019
+
+<__main__.Evil object at 0x037DBB50> 3
+Fri Dec 06 21:55:43 2019
+
+<__main__.Evil object at 0x02B0B250> 8
+Fri Dec 06 21:55:45 2019
+
+<__main__.Evil object at 0x037DBB50> 0
+Fri Dec 06 21:55:45 2019
+
+<__main__.Evil object at 0x037DBB70> 3
+Fri Dec 06 21:55:45 2019
+
+<__main__.Evil object at 0x037DBAB0> 7
+Fri Dec 06 21:55:47 2019
+
+<__main__.Evil object at 0x037DBB70> 0
+Fri Dec 06 21:55:47 2019
+
+<__main__.Evil object at 0x037DBAF0> 7
+Fri Dec 06 21:55:47 2019
+
+<__main__.Evil object at 0x037DBBF0> 7
+Fri Dec 06 21:55:49 2019
+
+<__main__.Evil object at 0x037DBAF0> 5
+Fri Dec 06 21:55:49 2019
+
+<__main__.Evil object at 0x037DBAF0> 3
+Fri Dec 06 21:55:49 2019
+
+<__main__.Evil object at 0x02B0B250> 6
+Fri Dec 06 21:55:49 2019
+
+<__main__.Evil object at 0x02B1D530> 8
+Fri Dec 06 21:55:51 2019
+
+<__main__.Evil object at 0x02B0B250> 5
+Fri Dec 06 21:55:51 2019
+
+<__main__.Evil object at 0x02B0B250> 2
+Fri Dec 06 21:55:51 2019
+
+<__main__.Evil object at 0x037DBB10> 8
+Fri Dec 06 21:55:53 2019
+
+<__main__.Evil object at 0x037DBAB0> 5
+Fri Dec 06 21:55:53 2019
+
+<__main__.TD object at 0x02AE5170> 20
+Fri Dec 06 21:55:55 2019
+
+<__main__.Evil object at 0x02B0B250> -1
+Fri Dec 06 21:55:55 2019
+
+<__main__.Evil object at 0x037DBBF0> 6
+Fri Dec 06 21:55:57 2019
+
+<__main__.Evil object at 0x037DBAB0> 4
+Fri Dec 06 21:55:57 2019
+
+<__main__.Evil object at 0x02B1D530> 7
+Fri Dec 06 21:55:57 2019
+
+<__main__.TD object at 0x02AE5170> 10
+Fri Dec 06 21:55:59 2019
+
+<__main__.Evil object at 0x037DBBF0> 4
+Fri Dec 06 21:55:59 2019
+
+<__main__.TD object at 0x02AE5170> 0

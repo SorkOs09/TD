@@ -1,0 +1,5 @@
+Hello World!
+Hello World!
+Hello World!
+Hello World!
+str1 - передаем, как массив в функцию void showText1 (char str[]);
